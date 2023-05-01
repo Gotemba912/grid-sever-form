@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "グリッド表示のサーバーフォーム",
+    "description": "サーバーフォームをグリッド表示にします\nby YukaYama0311",
+    "version": [ 1, 0, 0 ],
+    "uuid": "9cd0db7f-8754-4dde-87d7-4567199c9cf1",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "",
+      "version": [ 1, 0, 0 ],
+      "uuid": "a44fbf92-1757-4b8b-a054-3fed4b7b2175"
+    }
+  ]
+}
